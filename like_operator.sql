@@ -1,3 +1,3 @@
 SELECT *
 FROM Student
-WHERE Name LIKE 'R%';
+WHERE Name LIKE 'A%';
